@@ -1,0 +1,7 @@
+.idea
+.env
+.env.backup
+.log
+/vendor
+/.vscode/launch.json
+__debug_bin
